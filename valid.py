@@ -1,8 +1,8 @@
 ip=int(input(""));
 if ip > 0:
 	if (ip%2==0):
-		print("even")
+		print("Even")
 	elif (ip%2!=0):
-		print("odd")
+		print("Odd")
 else:
-	print("invalid")
+	print("Invalid")
