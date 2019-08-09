@@ -5,4 +5,4 @@ if ip > 0:
 	elif (ip%2!=0):
 		print("Odd")
 else:
-	print("Invalid")
+	print("invalid")
